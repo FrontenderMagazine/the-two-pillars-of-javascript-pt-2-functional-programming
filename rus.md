@@ -214,7 +214,7 @@ fetchFutureStockPrices().then(becomeAMillionaire);
 
 Для детального понимания концепций реактивности, ознакомьтесь с отличной работой «[General Theory of Reactivity][gtor]» Криса Ковальски.
 
-Ну и, конечно: [узнайте все об обоих столпах с серией моих платных курсов][pillar-courses] :)
+Ну и, конечно: [узнайте все о «столпах» с серией моих платных курсов][pillar-courses] :)
 
 [pillars-part-1]: http://frontender.info/the-two-pillars-of-javascript/
 [singularity]: https://ru.wikipedia.org/wiki/Технологическая_сингулярность
