@@ -210,7 +210,7 @@ fetchFutureStockPrices().then(becomeAMillionaire);
 
 Если вы готовы заняться реактивным программированием, ознакомьтесь с [Reactive Extensions for JavaScript][rxjs], [The Reactive Manifesto][reactive-manifesto], и поработайте с [этими][rx-lessons] интерактивными уроками.
 
-Для понимания функциональных потоков в node.js ознакомьтесь со статьей «[How I Want to Write Node: Stream All the Things!]» и библиотекой [Highland.js][highland].
+Для понимания функциональных потоков в node.js ознакомьтесь со статьей «[How I Want to Write Node: Stream All the Things!][node-streams]» и библиотекой [Highland.js][highland].
 
 Для детального понимания концепций реактивности, ознакомьтесь с отличной работой «[General Theory of Reactivity][gtor]» Криса Ковальски.
 
